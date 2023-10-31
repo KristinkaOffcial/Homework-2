@@ -1,0 +1,11 @@
+A=int(input("Введіть число А"))
+B=int(input("Введіть число B"))
+C=int(input("Введіть число C"))
+if A>0:
+    print("True")
+elif B>0:
+    print("True")
+elif C>0:
+    print("True")
+else:
+    print("False")
